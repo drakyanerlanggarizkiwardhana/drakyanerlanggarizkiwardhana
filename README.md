@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 **I'm currently working on several AI projects, including natural language processing and computer vision**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 **I'm currently learning more about deep learning, specifically in the area of generative models**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 **Ask me about anything related to AI, programming languages (such as Python, Java, or C++), or my experience as a student in the field of computer science**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 **drakyanerlanggarizkiwardhana@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ **I'm also interested in music and can play several instruments, including guitar and piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
