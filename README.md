@@ -12,7 +12,7 @@
 
 - 🌱 **I'm currently learning more about deep learning, specifically in the area of generative models**
 
-- 💬 **Ask me about anything related to AI, programming languages (such as Python, Java, or C++), or my experience as a student in the field of computer science**
+- 💬 **Ask questions about anything related to AI, programming languages ​​(such as Python, Java, or C++), or my experience as a student in political science but have computer skills**
 
 - 📫 **drakyanerlanggarizkiwardhana@gmail.com**
 
